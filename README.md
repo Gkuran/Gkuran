@@ -1,6 +1,4 @@
-### Hello there 🦇 🎃
-
-- Oh to be the cream
+### Oh to be the cream 🦇
 
 ##
 <div>
