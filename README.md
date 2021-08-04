@@ -12,7 +12,7 @@
 </div>
 <div style = 'display: inline_block'><br>
   <img align = 'center' alt = '2DCell' height = '300' width = '300' src = 'https://cdn.discordapp.com/attachments/781959222123954186/872211491397451887/ezgif-3-2fd9494e2c79_resized.gif' >
-  <img align = 'center' alt = 'Jgvida' height = '300' width = '520' src = 'https://cdn.discordapp.com/attachments/781959222123954186/872223202108117062/ezgif-3-a27be6b45de9.gif'>
+  <a href = 'https://github.com/Gkuran/College-Stuff/tree/main/Jogo%20da%20Vida%20(JS)' target = '_blank'><img align = 'center' alt = 'Jgvida' height = '300' width = '520' src = 'https://cdn.discordapp.com/attachments/781959222123954186/872223202108117062/ezgif-3-a27be6b45de9.gif'>
 </div>
   
 ##
