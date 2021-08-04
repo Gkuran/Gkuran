@@ -1,7 +1,7 @@
 ### Hello there 🦇 🎃
 
-- Brazil, 24y
-- Undergrad astrophysics student
+- Oh to be the cream
+
 ##
 <div>
   <img align = 'center' alt = 'pyIcon' height = '30' width = '40' src = 'https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg'>
