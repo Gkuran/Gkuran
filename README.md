@@ -9,6 +9,7 @@
   <img align = 'center' alt = 'jsIcon' height = '30' width = '40' src ='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg'>
   <img align = 'center' alt = 'htmlIcon' height = '30' width = '40' src = 'https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg'>
   <img align = 'center' alt = 'cssIcon' height = '30' width = '40' src = 'https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg'
+  <img align = 'center' height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </div>
 <div style = 'display: inline_block'><br>
   <a = href = 'https://github.com/Gkuran/College-Stuff/blob/main/CC3D_Projects/2D%20Cell.rar' target = '_blank'><img align = 'center' alt = '2DCell' height = '300' width = '300' src = 'https://cdn.discordapp.com/attachments/781959222123954186/872211491397451887/ezgif-3-2fd9494e2c79_resized.gif' >
