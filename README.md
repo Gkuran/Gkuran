@@ -1,5 +1,13 @@
 <h2 align="left">Kuran</h2>
 
+<details>
+  <summary>👨‍💻 More about me</summary>
+
+  - 💬 I'm 27 years old and currently living in Brasil. I speak english and I'm also learning russian. I'm currently working as a front-end developer since 2023 using JS, pure HTML/CSS, react and other web stuffs and now I'm trying to master React Native and the mobile development. I also have experience, from college years, with MySQL, PostgreSQL Python, Data Analysis, Data visualization.
+
+  - ⚡ In my free time I like to playing video games, watch series and read books. I also love to hangout with my friend, from parties to practice some sport. 
+</details>
+
 ###
 
 <br clear="both">
