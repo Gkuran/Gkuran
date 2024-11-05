@@ -19,6 +19,14 @@
 ###
 
 <div align="left">
+  <a href="https://www.linkedin.com/in/gabriel-silva-adornes-58a86b218/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+<br clear="both">
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -52,15 +60,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
 </div>
 
-###
-
 <br clear="both">
 
-<div align="left">
-  
-  <a href="https://www.linkedin.com/in/gabriel-silva-adornes-58a86b218/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
+<p align="left">
+  <img align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXlyb3M4Y2QxY2d1amU4MDVybnFvcDlkcXB5YWFnOXZwYm53cWV3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9hLq3XV0tykOINfyXc/giphy.webp" alt="Imagem">
+</p>
