@@ -50,7 +50,3 @@
 </div>
 
 <br clear="both">
-
-<p align="center">
-  <img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDN2Nm0yemp2cXc0MWRtbGQ3OTl6dXEyYXBlem0wbXlmazh5MGNjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/14wm71RSxaYX60/giphy.webp" alt="Imagem">
-</p>
