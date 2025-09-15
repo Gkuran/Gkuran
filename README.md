@@ -3,9 +3,8 @@
 <details>
   <summary>👨‍💻 More about me!</summary>
 
-  - 💬 I'm 28 years old and currently living in Brasil. I speak english and I'm also learning russian. I'm currently working as a front-end developer since 2023 using TS, pure HTML/CSS, react and other web stuffs and now I'm trying to master React Native and the mobile development. I also have experience, from college years, with MySQL, PostgreSQL, Python, Data Analysis, Data visualization.
+  - 💬 I'm 28 years old and currently living in Brasil. I speak english and I'm also learning russian. I'm currently working as a front-end developer since 2023 using TS, pure HTML/CSS, react and other web stuffs and now I'm trying to master React Native and the mobile development. I also have experience, from college years, with data science.
 
-  - ⚡ In my free time I like to play video games, watch series/movies and read books. I also love to run and climb. 
 </details>
 
 <br clear="both">
