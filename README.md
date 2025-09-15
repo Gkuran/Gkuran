@@ -8,15 +8,7 @@
   - ⚡ In my free time I like to play video games, watch series/movies and read books. I also love to run and climb. 
 </details>
 
-###
-
 <br clear="both">
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GKuran&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/gabriel-silva-adornes-58a86b218/" target="_blank">
