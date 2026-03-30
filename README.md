@@ -14,4 +14,8 @@
 
 ## 📚 boulder-ui / Storybook
 
-[![Storybook](https://img.shields.io/badge/Storybook-View%20Docs-ff4785?logo=storybook\&logoColor=white)](https://69c67eb2c82c38c85d7a3a11-zwcadwbakj.chromatic.com/?path=/docs/foundation-colors--docs)
+[![Storybook](https://img.shields.io/badge/View-Storybook-ff4785?logo=storybook&logoColor=white)](https://69c67eb2c82c38c85d7a3a11-zwcadwbakj.chromatic.com/?path=/docs/foundation-colors--docs)
+
+<a href="https://69c67eb2c82c38c85d7a3a11-zwcadwbakj.chromatic.com/?path=/docs/foundation-colors--docs">
+  <img src="./ezgif-4eac3fda380de662.gif" alt="Storybook Preview" />
+</a>
