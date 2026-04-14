@@ -1,4 +1,4 @@
-# 👋 Olá
+# Hello there... 
 
 💻 Desenvolvedor Fullstack com foco em Front-end
 
@@ -19,6 +19,8 @@
 </a>
 
 ## 📚 boulder-ui / Storybook
+
+A geology-inspired UI kit for React. Build accessible and consistent interfaces with nature-toned primitives.
 
 [![Storybook](https://img.shields.io/badge/View-Storybook-ff4785?logo=storybook&logoColor=white)](https://main--69c67eb2c82c38c85d7a3a11.chromatic.com/)
 
