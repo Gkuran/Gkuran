@@ -4,10 +4,6 @@
 
 🚀 Passionate about building scalable interfaces and design systems
 
----
-
-## 🌐 Conecte-se comigo
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Adornes-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-adornes-58a86b218)
 
 ---
