@@ -1,6 +1,7 @@
 # Hello there...
 
-💻 Fullstack Developer with a focus on Front-end
+💻 Fullstack Developer with a focus on Front-end 
+
 🚀 Passionate about building scalable interfaces and design systems
 
 ---
