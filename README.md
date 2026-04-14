@@ -1,7 +1,7 @@
 # Hello there...
 
-💻 Desenvolvedor Fullstack com foco em Front-end  
-🚀 Apaixonado por construção de interfaces escaláveis e design systems
+💻 Fullstack Developer with a focus on Front-end
+🚀 Passionate about building scalable interfaces and design systems
 
 ---
 
