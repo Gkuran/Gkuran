@@ -39,7 +39,7 @@ A geology-inspired React UI kit focused on accessible, scalable, and consistent 
 A nonlinear dynamics [simulation](https://github.com/Gkuran/art-or-something/blob/main/penduloDuplo.pde) demonstrating chaotic motion through classical mechanics and Hamiltonian formalism.
 
 <p align="center">
-  <img src="./doublependulum.gif" alt="Double pendulum animation" width="100%" />
+  <img src="./doublependulum.gif" alt="Double pendulum animation"/>
 </p>
 
 ### Hamiltonian Formulation
@@ -63,3 +63,13 @@ $$
 \qquad
 \dot p_i = -\frac{\partial H}{\partial q_i}
 $$
+
+---
+
+## 🎲 Game of Life
+
+The Conway's Game of Life is a famous mathematical [simulation](https://github.com/Gkuran/College-Stuff/tree/main/Jogo%20da%20Vida%20(JS)) based on a simple set of rules. It takes place on a grid of cells, where each cell can be alive or dead. At every step, the next generation is determined by the number of neighboring live cells. Despite its simplicity, the system can create surprisingly complex patterns, showing how order and unpredictability can emerge from basic rules.
+
+<p align="center">
+  <img src="./gameOfLife.gif" alt="Double pendulum animation"/>
+</p>
